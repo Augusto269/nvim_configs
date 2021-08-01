@@ -23,6 +23,7 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 "Git
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+Plug 'tpope/vim-fugitive'
 "Formater
 Plug 'sbdchd/neoformat'
 call plug#end()

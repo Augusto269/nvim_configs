@@ -8,9 +8,8 @@
     "javascriptreact",
     "typescript.tsx",
     "graphql",
-    "python"
-  ],
-{
-  "coc.preferences.formatOnSaveFiletypes": ["css", "markdown"]
-}
+    "python",
+    "css",
+    "markdonw"
+  ]
 }
