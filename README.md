@@ -1,13 +1,14 @@
-NVIM PERSONAL CONFIGURATIONS
-Steps for Setup the configuration
+# NVIM PERSONAL CONFIGURATIONS
+ **Steps for Setup the configuration
 
-Install nvim Copy init.vim in:
+*Install nvim
+*Copy init.vim in:
 
-cd ~/.config
+>cd ~/.config
 
 *Create if this not existed the dir
 
-mkdir nvim
+>mkdir nvim
 
 *Create or copy the configuration File init.vim *
 
